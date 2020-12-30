@@ -1,5 +1,5 @@
 ## version $VER: Trackdisk.catalog 1.0 (28.12.2020)
-## language tÃ¼rkÃ§e
+## language türkçe
 ## codeset 12
 ;
 ;
@@ -20,11 +20,11 @@ Kullan
 ; Use
 ;
 MSG_CANCEL
-VazgeÃ§
+Vazgeç
 ; Cancel
 ;
 MSG_DESCRIPTION
-trackdisk.device tercihler editÃ¶rÃ¼
+trackdisk.device tercihler editörü
 ; trackdisk.device preferences editor
 ;
 MSG_WINDOW_TITLE
@@ -32,11 +32,11 @@ trackdisk.device tercihler
 ; trackdisk.device preferences
 ;
 MSG_DRIVE
-SÃ¼rÃ¼cÃ¼ %u
+Sürücü %u
 ; Drive %u
 ;
 MSG_NOCLICK
-TÄ±klama yok:
+Týklama yok:
 ; No click:
 ;
 MSG_RETRIES
