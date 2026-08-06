@@ -1,0 +1,44 @@
+## version $VER: Trackdisk.catalog 1.0 (06.08.2026)
+## language suomi
+## codeset 0
+;
+MSG_NAME
+Trackdisk
+; Trackdisk
+;
+MSG_TITLE
+Trackdisk-asetukset
+; Trackdisk prefs
+;
+MSG_SAVE
+Tallenna
+; Save
+;
+MSG_USE
+Käytä
+; Use
+;
+MSG_CANCEL
+Peru
+; Cancel
+;
+MSG_DESCRIPTION
+trackdisk.device-asetusten muokkain
+; trackdisk.device preferences editor
+;
+MSG_WINDOW_TITLE
+trackdisk.device-asetukset
+; trackdisk.device preferences
+;
+MSG_DRIVE
+Asema %u
+; Drive %u
+;
+MSG_NOCLICK
+Ei naksutusta:
+; No click:
+;
+MSG_RETRIES
+Uudelleenyritykset:
+; Retries:
+;

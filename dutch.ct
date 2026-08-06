@@ -1,0 +1,44 @@
+## version $VER: Trackdisk.catalog 1.0 (06.08.2026)
+## language nederlands
+## codeset 0
+;
+MSG_NAME
+Trackdisk
+; Trackdisk
+;
+MSG_TITLE
+Trackdisk instellingen
+; Trackdisk prefs
+;
+MSG_SAVE
+Bewaar
+; Save
+;
+MSG_USE
+Gebruik
+; Use
+;
+MSG_CANCEL
+Annuleer
+; Cancel
+;
+MSG_DESCRIPTION
+Instellingen-editor voor trackdisk.device
+; trackdisk.device preferences editor
+;
+MSG_WINDOW_TITLE
+trackdisk.device instellingen
+; trackdisk.device preferences
+;
+MSG_DRIVE
+Station %u
+; Drive %u
+;
+MSG_NOCLICK
+Geen klik:
+; No click:
+;
+MSG_RETRIES
+Pogingen:
+; Retries:
+;

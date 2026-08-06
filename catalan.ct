@@ -1,0 +1,44 @@
+## version $VER: Trackdisk.catalog 1.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_NAME
+Trackdisk
+; Trackdisk
+;
+MSG_TITLE
+Preferències de Trackdisk
+; Trackdisk prefs
+;
+MSG_SAVE
+Desar
+; Save
+;
+MSG_USE
+Usar
+; Use
+;
+MSG_CANCEL
+Cancel.lar
+; Cancel
+;
+MSG_DESCRIPTION
+Editor de preferències de trackdisk.device
+; trackdisk.device preferences editor
+;
+MSG_WINDOW_TITLE
+Preferències de trackdisk.device
+; trackdisk.device preferences
+;
+MSG_DRIVE
+Unitat %u
+; Drive %u
+;
+MSG_NOCLICK
+Sense clic:
+; No click:
+;
+MSG_RETRIES
+Reintents:
+; Retries:
+;
